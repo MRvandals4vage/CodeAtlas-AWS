@@ -256,3 +256,32 @@ npm run dev
 Open
 
 http://localhost:3000
+
+______
+
+Why CodeAtlas Exists
+
+Modern repositories are complex.
+
+New developers often struggle to understand:
+	•	architecture
+	•	module responsibilities
+	•	execution flow
+	•	critical components
+
+CodeAtlas turns a repository into a navigable architecture map, dramatically reducing the time needed to understand unfamiliar codebases.
+
+⸻
+
+Future Improvements
+	•	deeper call graph analysis
+	•	cross-service architecture detection
+	•	automatic documentation generation
+	•	AI-powered codebase search
+	•	repository health metrics
+
+⸻
+
+License
+
+MIT License
